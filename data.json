@@ -6,10 +6,12 @@
     { "id": "thermodynamics-4", "name": "thermodynamics/ktg-4" }
   ],
   "chemistry": [
-    { "id": "", "name": "" }
+    { "id": "thermochemistry", "name": "thermochemistry" },
+    { "id": "poc-1", "name": "practical organic chemistry-1" }
   ],
   "maths": [
-    { "id": "", "name": "" }
+    { "id": "circles", "name": "circles" },
+    { "id": "pnc", "name": "permutations and combinations" }
   ],
   "notes": [
     { "id": "centre of mass", "name": "centre of mass" },
