@@ -1,0 +1,16 @@
+{
+  "physics": [
+    { "id": "thermodynamics-1", "name": "thermodynamics-1" },
+    { "id": "kinematics-01", "name": "Kinematics L1" }
+  ],
+  "chemistry": [
+    { "id": "organic-l1", "name": "Organic Compounds L1" }
+  ],
+  "maths": [
+    { "id": "calculus-deep", "name": "Calculus Deep Dive" }
+  ],
+  "notes": [
+    { "id": "physics-unit-1", "name": "Madan Sir: Physics Unit 1" },
+    { "id": "organic-revision", "name": "Organic Chemistry Revision" }
+  ]
+}
