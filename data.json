@@ -1,5 +1,6 @@
 {
   "physics": [
+    { "id": "rbd", "name": "rigid body dynamics" },
     { "id": "thermodynamics-1", "name": "thermodynamics/ktg-1" },
     { "id": "thermodynamics-2", "name": "thermodynamics/ktg-2" },
     { "id": "thermodynamics-3", "name": "thermodynamics/ktg-3" },
