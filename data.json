@@ -8,10 +8,13 @@
   ],
   "chemistry": [
     { "id": "thermochemistry", "name": "thermochemistry" },
-    { "id": "poc-1", "name": "practical organic chemistry-1" }
+    { "id": "poc-1", "name": "practical organic chemistry-1" },
+    { "id": "poc-2", "name": "practical organic chemistry-2" },
+    { "id": "op-d", "name": "optical isomerism doubt session" }
   ],
   "maths": [
     { "id": "circles", "name": "circles" },
+    { "id": "hyperbola", "name": "hyperbola" },
     { "id": "pnc", "name": "permutations and combinations" }
   ],
   "notes": [
