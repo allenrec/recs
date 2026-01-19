@@ -1,6 +1,7 @@
 {
   "physics": [
     { "id": "rbd", "name": "rigid body dynamics" },
+    { "id": "surface-tension", "name": "surface tension" },
     { "id": "thermodynamics-1", "name": "thermodynamics/ktg-1" },
     { "id": "thermodynamics-2", "name": "thermodynamics/ktg-2" },
     { "id": "thermodynamics-3", "name": "thermodynamics/ktg-3" },
@@ -10,7 +11,8 @@
     { "id": "thermochemistry", "name": "thermochemistry" },
     { "id": "poc-1", "name": "practical organic chemistry-1" },
     { "id": "poc-2", "name": "practical organic chemistry-2" },
-    { "id": "op-d", "name": "optical isomerism doubt session" }
+    { "id": "op-d", "name": "optical isomerism doubt session" },
+    { "id": "hydrogen-1", "name": "hydrogen-1" }
   ],
   "maths": [
     { "id": "circles", "name": "circles" },
