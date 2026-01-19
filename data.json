@@ -1,28 +1,28 @@
 {
   "physics": [
-    { "id": "rbd", "name": "rigid body dynamics" },
-    { "id": "surface-tension", "name": "surface tension" },
-    { "id": "thermodynamics-1", "name": "thermodynamics/ktg-1" },
-    { "id": "thermodynamics-2", "name": "thermodynamics/ktg-2" },
-    { "id": "thermodynamics-3", "name": "thermodynamics/ktg-3" },
-    { "id": "thermodynamics-4", "name": "thermodynamics/ktg-4" }
+    { "id": "rbd", "name": "Rigid Body Dynamics" },
+    { "id": "surface-tension", "name": "Surface Tension" },
+    { "id": "thermodynamics-1", "name": "Thermodynamics/ktg-1" },
+    { "id": "thermodynamics-2", "name": "Thermodynamics/ktg-2" },
+    { "id": "thermodynamics-3", "name": "Thermodynamics/ktg-3" },
+    { "id": "thermodynamics-4", "name": "Thermodynamics/ktg-4" }
   ],
   "chemistry": [
-    { "id": "thermochemistry", "name": "thermochemistry" },
-    { "id": "poc-1", "name": "practical organic chemistry-1" },
-    { "id": "poc-2", "name": "practical organic chemistry-2" },
-    { "id": "op-d", "name": "optical isomerism doubt session" },
-    { "id": "hydrogen-1", "name": "hydrogen-1" }
+    { "id": "thermochemistry", "name": "Thermochemistry" },
+    { "id": "op-d", "name": "Optical Isomerism Doubt Session" },
+    { "id": "poc-1", "name": "Practical Organic Chemistry-1" },
+    { "id": "poc-2", "name": "Practical Organic Chemistry-2" },
+    { "id": "hydrogen-1", "name": "Hydrogen-1" }
   ],
   "maths": [
-    { "id": "circles", "name": "circles" },
-    { "id": "hyperbola", "name": "hyperbola" },
-    { "id": "pnc", "name": "permutations and combinations" }
+    { "id": "circles", "name": "Circles" },
+    { "id": "hyperbola", "name": "Hyperbola" },
+    { "id": "pnc", "name": "Permutations and Combinations" }
   ],
   "notes": [
-    { "id": "centre of mass", "name": "centre of mass" },
-    { "id": "rigid body dynamics", "name": "rigid body dynamics" },
-    { "id": "fluid mechanics", "name": "fluid mechanics" },
-    { "id": "waves", "name": "waves" }
+    { "id": "centre of mass", "name": "Centre of Mass" },
+    { "id": "rigid body dynamics", "name": "Rigid Body Dynamics" },
+    { "id": "fluid mechanics", "name": "Fluid Mechanics" },
+    { "id": "waves", "name": "Waves" }
   ]
 }
