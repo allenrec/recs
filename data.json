@@ -12,7 +12,11 @@
     { "id": "op-d", "name": "Optical Isomerism Doubt Session" },
     { "id": "poc-1", "name": "Practical Organic Chemistry-1" },
     { "id": "poc-2", "name": "Practical Organic Chemistry-2" },
-    { "id": "hydrogen-1", "name": "Hydrogen-1" }
+    { "id": "hydrogen-1", "name": "Hydrogen-1" },
+    { "id": "S-Block", "name": "S-Block" },
+    { "id": "P-Block-1", "name": "P-Block-1" },
+    { "id": "P-Block-2", "name": "P-Block-2" }
+    
   ],
   "maths": [
     { "id": "circles", "name": "Circles" },
@@ -23,6 +27,7 @@
     { "id": "centre of mass", "name": "Centre of Mass" },
     { "id": "rigid body dynamics", "name": "Rigid Body Dynamics" },
     { "id": "fluid mechanics", "name": "Fluid Mechanics" },
-    { "id": "waves", "name": "Waves" }
+    { "id": "waves", "name": "Waves" },
+    { "id": "Thermodynamics/ktg", "name": "Thermodynamics/ktg" }
   ]
 }
